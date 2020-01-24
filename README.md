@@ -13,6 +13,8 @@ a fictitious bank across a 6 month time period with an ~81% accuracy.
 - **The environment:** [Spyder IDE](https://www.spyder-ide.org/)
 - **Data Processing:** [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), and [Scikit-learn](https://scikit-learn.org/stable/index.html) 
 - **Model Training/Iterating:** [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/stable/index.html)
+- Built as part of the [Deep Learning A-Z Udemy course](https://www.udemy.com/course/deeplearning/)
+
 
 # Next Steps For Improvement
 - Apply the model to different datasets/usecases 
@@ -20,7 +22,6 @@ a fictitious bank across a 6 month time period with an ~81% accuracy.
 
 # Author
 - **Rikard Saqe** [Github](https://github.com/rikardsaqe/)
-- Built as part of the [Deep Learning A-Z Udemy course](https://www.udemy.com/course/deeplearning/)
 
 # License
 - This project is licensed under the MIT License, see the LICENSE.txt file for details
