@@ -10,13 +10,13 @@ a fictitious bank across a 6 month time period with an ~81% accuracy.
 
 # Built With
 
-- The [Spyder IDE] (https://www.spyder-ide.org/)
-- [NumPy] (https://numpy.org/), [Pandas] (https://pandas.pydata.org/), and [Scikit-learn] (https://scikit-learn.org/stable/index.html) for data processing
-- [Keras] (https://keras.io/) and [Scikit-learn] (https://scikit-learn.org/stable/index.html) for training/iterating on model
+- The [Spyder IDE](https://www.spyder-ide.org/)
+- **Data Processing:** [NumPy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), and [Scikit-learn](https://scikit-learn.org/stable/index.html) 
+- **Model Training/Iterating:** [Keras](https://keras.io/) and [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
 # Next Steps For Improvement
 - Apply the model to different datasets/usecases 
 - Expirment with the architecture (number of nodes and layers)
 
 # Author
-- Rikard Saqe [Github](https://github.com/rikardsaqe/), built as part of the [Deep Learning A-Z Udemy course](https://www.udemy.com/course/deeplearning/)
+- **Rikard Saqe** [Github](https://github.com/rikardsaqe/), built as part of the [Deep Learning A-Z Udemy course](https://www.udemy.com/course/deeplearning/)
