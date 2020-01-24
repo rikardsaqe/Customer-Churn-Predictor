@@ -5,7 +5,7 @@ a fictitious bank across a 6 month time period with an ~81% accuracy.
 
 # Getting Started
 
-- Download built_ann.py and Churn_Modelling.csv in the same folder
+- Download built_ann.py and Churn_Modelling.csv into the same folder
 - Run built_ann.py
 
 # Built With
@@ -24,5 +24,5 @@ a fictitious bank across a 6 month time period with an ~81% accuracy.
 - **Rikard Saqe** [Github](https://github.com/rikardsaqe/)
 
 # License
-- This project is licensed under the MIT License, see the LICENSE.txt file for details
+- This project is licensed under the MIT License, see the [LICENSE.txt](https://github.com/rikardsaqe/Customer-Churn-Predictor/blob/master/LICENSE) file for details
 
