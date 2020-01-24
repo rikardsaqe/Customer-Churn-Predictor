@@ -5,8 +5,8 @@ a fictitious bank across a 6 month time period with an ~81% accuracy.
 
 # Getting Started
 
-- Download and run built_ann.py 
-- Ensure Churn_Modelling.csv is in the same folder
+- Download built_ann.py and Churn_Modelling.csv in the same folder
+- Run built_ann.py
 
 # Built With
 
