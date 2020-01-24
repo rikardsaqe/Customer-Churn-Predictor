@@ -1,14 +1,22 @@
 # Customer-Churn-Predictor
 
-Built an Artificial Neural Network architecture to predict customer churn (whether or not a customer will leave) for 
+I built an Artificial Neural Network architecture to predict customer churn (whether or not a customer will leave) for 
 a fictitious bank across a 6 month time period with an ~81% accuracy.
 
-Developed in the Spyder IDE using NumPy, Pandas and Scikit-learn for data processing, and Keras and Scikit-learn for training/iterating on model.
+# Getting Started
 
-Running built_ann.py and importing the Churn_Modelling.csv dataset should enable you to be able to plug and play with it 
-as well.
+- Download and run built_ann.py 
+- Ensure Churn_Modelling.csv is in the same folder
 
-Steps to further improve on this model and skillset would be to apply it to different datasets/usecases and expirmenting with 
-the architecture (number of nodes and layers).
+# Built With
 
-Built as part of the Deep Learning A-Z Udemy course: https://www.udemy.com/course/deeplearning/
+- The [Spyder IDE] (https://www.spyder-ide.org/)
+- [NumPy] (https://numpy.org/), [Pandas] (https://pandas.pydata.org/), and [Scikit-learn] (https://scikit-learn.org/stable/index.html) for data processing
+- [Keras] (https://keras.io/) and [Scikit-learn] (https://scikit-learn.org/stable/index.html) for training/iterating on model
+
+# Next Steps For Improvement
+- Apply the model to different datasets/usecases 
+- Expirment with the architecture (number of nodes and layers)
+
+# Author
+- Rikard Saqe [Github] (https://github.com/rikardsaqe/), built as part of the [Deep Learning A-Z Udemy course] (https://www.udemy.com/course/deeplearning/)
