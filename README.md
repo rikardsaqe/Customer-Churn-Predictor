@@ -19,7 +19,8 @@ a fictitious bank across a 6 month time period with an ~81% accuracy.
 - Expirment with the architecture (number of nodes and layers)
 
 # Author
-- **Rikard Saqe** [Github](https://github.com/rikardsaqe/), built as part of the [Deep Learning A-Z Udemy course](https://www.udemy.com/course/deeplearning/)
+- **Rikard Saqe** [Github](https://github.com/rikardsaqe/)
+- Built as part of the [Deep Learning A-Z Udemy course](https://www.udemy.com/course/deeplearning/)
 
 # License
 - This project is licensed under the MIT License, see the LICENSE.txt file for details
